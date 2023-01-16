@@ -2,7 +2,9 @@
 ## Subtask 1
 10 pkt
 ## Subtask 3
+
 |-Cześć-|
+
 Jestem *Ola*. Zdecydowałam się na udział w challenge portfolio, ponieważ to genialny pomysł na stworzenie jakiegokolwiek portfolio (dla zupełnie początkujących). Co nam z teorii jak nie mamy praktyki? I to właśnie przykuło mi uwagę, że ktoś również będzie mógł sprswdzić i ocenić moje postępy.
 
 
