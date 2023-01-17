@@ -46,7 +46,8 @@ e) Aktywność, w tej sekcji wyświetlają się ostatnio dodany gracz, mecz oraz
 f) Scouts Panel czyli bardzo przydatna opcja do kontaktu z teamem developerskim. W tej aplikacji odbywa się to przez przeniesienie do platformy Slack (po kliknięciu) gdzie jest kontakt do zespołu developerów.
 
 g) kafelki na górze strony zawierające informacje o ilości: graczy, meczów, raportów i akcji. Nie do końca jest to dla mnie funkcjonalne, to jedynie informacja statystyczna, zatem dodałabym do każdej kafelki opcję wyszukiwania po nazwie i możliwości szybkiego podglądu (gracza, meczu itp.).
-h) Gracze – w tej sekcji mamy możliwość wyszukania danych (gracz, klub, itp.) poprzez wpisanie w pole Search. Przydała by się tu funkcja podpowiedzi. Znajdują się tam też takie opcje jak: Download CSV gdzie mamy możliwość pobrać plik w formacie CSF; Print czyli możliwość wydrukowania wyświetlanej listy; Widoczność w kolumnach wybranych kategorii oraz Filtry.
+
+**h)** Gracze – w tej sekcji mamy możliwość wyszukania danych (gracz, klub, itp.) poprzez wpisanie w pole Search. Przydała by się tu funkcja podpowiedzi. Znajdują się tam też takie opcje jak: Download CSV gdzie mamy możliwość pobrać plik w formacie CSF; Print czyli możliwość wydrukowania wyświetlanej listy; Widoczność w kolumnach wybranych kategorii oraz Filtry.
 
 W tej sekcji Gracze, wyświetlona jest lista profili z wybranymi danymi jak Imię, Nazwisko, Wiek, Pozycja, Klub, Recenzja (i te dane można sortować) oraz Mecze i Raporty (tych nie można sotować). Po kliknięciu na wybrany profil, strona przechodzi w edycję zamiast podgląd. Tu jest poważny błąd ponieważ możemy przez przypadek zmienić dane. Należałoby to zmienić, aby nie było możliwości edycji. Jedynie podgląd i ewentualnie opcja drukuj i udostępnij.
 
