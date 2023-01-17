@@ -14,13 +14,13 @@ Moim celem jest nie tylko stworzenie portfolio, ale także zrozumienie czym jest
 1. Platforma scautingowa „ Futbol Kolektyw” to aplikacja, która polega na przeglądaniu w bazie danych piłkarzy, meczów i raportów oraz rejestrowaniu nowych zawodników, meczów i raportów. Służyć to będzie do wyszukiwania odpowiednich dla scoutów piłkarzy.
 2. Funkcjonalność całej aplikacji oraz moje uwagi:
 
-a) Logowanie i Wylogowanie czyli wejście i wyjście na konto użytkownika do/ z platformy – brak możliwości zalogowania się przez np. Facebook lub konto Google czy też przez inne aplikacje, a byłoby to znacznym ułatwieniem dla użytkownika.
+a) ***Logowanie i Wylogowanie*** czyli wejście i wyjście na konto użytkownika do/ z platformy – brak możliwości zalogowania się przez np. Facebook lub konto Google czy też przez inne aplikacje, a byłoby to znacznym ułatwieniem dla użytkownika.
 
-b) Strona Główna, gdzie jednym kliknięciem przechodzimy do strony startowej- menu użytkownika.
+b) ***Strona Główna***, gdzie jednym kliknięciem przechodzimy do strony startowej- menu użytkownika.
 
-c) Tłumacz czyli zmiana języka: angielski/ polski – tutaj proponowałabym dodać więcej języków.
+c) ***Tłumacz*** czyli zmiana języka: angielski/ polski – tutaj proponowałabym dodać więcej języków.
 
-d) Linki pomocnicze dodaj gracza – czyli tworzenie profilu nowego gracza oraz edycja go; można zaobserwować tutaj takie dane jak: E-mail, Imię, Nazwisko, Telefon, Waga, Wzrost (cm), Data urodzenia, Dominująca noga, Klub, Poziom rozgrywek, Główna pozycja, Pozycja alternatywa, Województwo, Osiągnięcia, Łączy nas piłka, 90 minut, Profil facebook oraz przycisk Dodaj link z YouTube, następnie przyciski Submit i Clear.
+d) ***Linki pomocnicze*** dodaj gracza – czyli tworzenie profilu nowego gracza oraz edycja go; można zaobserwować tutaj takie dane jak: E-mail, Imię, Nazwisko, Telefon, Waga, Wzrost (cm), Data urodzenia, Dominująca noga, Klub, Poziom rozgrywek, Główna pozycja, Pozycja alternatywa, Województwo, Osiągnięcia, Łączy nas piłka, 90 minut, Profil facebook oraz przycisk Dodaj link z YouTube, następnie przyciski Submit i Clear.
 
 Można zauważyć, że nie wszystkie pola są obowiązkowe oraz jeśli nie wpiszemy nic w polu obowiązkowym to wyświetla się komunikat o wypełnieniu tego pola co jest dużym plusem.
 
@@ -34,20 +34,20 @@ Oprócz ww. do profilu użytkownika dodałabym możliwość przesłania zdjęcia
 
 Z tego poziomu, po zapisaniu nowego gracza, mamy również opcje takie jak: Mecze i Raporty. 
 
-Mecze dają możliwość utworzenia nowego meczu, aktualizację istniejącego, zawierającego dane takie jak: Drużyna zawodnika, Drużyna przeciwna, Zdobyte gole, Stracone gole, Data, Mecz domowy/ wyjazdowy, Kolor koszulki, Liga, Czas gry, Numer, Web match, General, Recenzja.
+**Mecze** dają możliwość utworzenia nowego meczu, aktualizację istniejącego, zawierającego dane takie jak: Drużyna zawodnika, Drużyna przeciwna, Zdobyte gole, Stracone gole, Data, Mecz domowy/ wyjazdowy, Kolor koszulki, Liga, Czas gry, Numer, Web match, General, Recenzja.
 Po dodaniu meczu mamy możliwość takich akcji jak edytowanie, dodaj raport, rozpocznij mecz.
 
-Raport - z kolei w sekcji z lewej strony widnieje wyżej wspomniany Raport, ale przycisk plusa czyli utworzenie nowego Raportu jest niefunkcjonalne – przekierowuje nas na stronę Mecze i dopiero z tego poziomu możemy temu graczowi dodać raport. Po kliknięciu Submit wyświetla się komunikat, że nazwa województwa jest obowiązkowa to jest błędem, ponieważ zapisując dane gracza nie było tam gwiazdki informującej o obowiązkowym wypełnieniu tego pola. Jeśli chcesz przejść do dodania raportu trzeba zaktualizować dane zawodnika w polu Województwo.
+**Raport** - z kolei w sekcji z lewej strony widnieje wyżej wspomniany Raport, ale przycisk plusa czyli utworzenie nowego Raportu jest niefunkcjonalne – przekierowuje nas na stronę Mecze i dopiero z tego poziomu możemy temu graczowi dodać raport. Po kliknięciu Submit wyświetla się komunikat, że nazwa województwa jest obowiązkowa to jest błędem, ponieważ zapisując dane gracza nie było tam gwiazdki informującej o obowiązkowym wypełnieniu tego pola. Jeśli chcesz przejść do dodania raportu trzeba zaktualizować dane zawodnika w polu Województwo.
 
 Po dodaniu raportu mamy mnóstwo pól tekstowych zawierających ważne informacje wraz z danymi statystycznymi. Możemy wypełnić i edytować każde pole (narzędzia: cofnij, powtórz, pogrubienie, pochylenie, podkreślenie, zapis w kodzie, nagłówek 1 i 2, cytat, lista numeryczna/ punktowa, rozmiar czcionki) oraz wyczyścić wszystkie pola.
 
-e) Aktywność, w tej sekcji wyświetlają się ostatnio dodany gracz, mecz oraz ich aktualizacje wraz z raportem, brakuje tutaj informacji o ostatnio dodanym raporcie – należałoby to zmienić.
+e) ***Aktywność***, w tej sekcji wyświetlają się ostatnio dodany gracz, mecz oraz ich aktualizacje wraz z raportem, brakuje tutaj informacji o ostatnio dodanym raporcie – należałoby to zmienić.
 
-f) Scouts Panel czyli bardzo przydatna opcja do kontaktu z teamem developerskim. W tej aplikacji odbywa się to przez przeniesienie do platformy Slack (po kliknięciu) gdzie jest kontakt do zespołu developerów.
+f) ***Scouts Panel***, czyli bardzo przydatna opcja do kontaktu z teamem developerskim. W tej aplikacji odbywa się to przez przeniesienie do platformy Slack (po kliknięciu) gdzie jest kontakt do zespołu developerów.
 
-g) kafelki na górze strony zawierające informacje o ilości: graczy, meczów, raportów i akcji. Nie do końca jest to dla mnie funkcjonalne, to jedynie informacja statystyczna, zatem dodałabym do każdej kafelki opcję wyszukiwania po nazwie i możliwości szybkiego podglądu (gracza, meczu itp.).
+g) ***kafelki*** na górze strony zawierające informacje o ilości: graczy, meczów, raportów i akcji. Nie do końca jest to dla mnie funkcjonalne, to jedynie informacja statystyczna, zatem dodałabym do każdej kafelki opcję wyszukiwania po nazwie i możliwości szybkiego podglądu (gracza, meczu itp.).
 
-**h)** Gracze – w tej sekcji mamy możliwość wyszukania danych (gracz, klub, itp.) poprzez wpisanie w pole Search. Przydała by się tu funkcja podpowiedzi. Znajdują się tam też takie opcje jak: Download CSV gdzie mamy możliwość pobrać plik w formacie CSF; Print czyli możliwość wydrukowania wyświetlanej listy; Widoczność w kolumnach wybranych kategorii oraz Filtry.
+h) ***Gracze*** – w tej sekcji mamy możliwość wyszukania danych (gracz, klub, itp.) poprzez wpisanie w pole Search. Przydała by się tu funkcja podpowiedzi. Znajdują się tam też takie opcje jak: Download CSV gdzie mamy możliwość pobrać plik w formacie CSF; Print czyli możliwość wydrukowania wyświetlanej listy; Widoczność w kolumnach wybranych kategorii oraz Filtry.
 
 W tej sekcji Gracze, wyświetlona jest lista profili z wybranymi danymi jak Imię, Nazwisko, Wiek, Pozycja, Klub, Recenzja (i te dane można sortować) oraz Mecze i Raporty (tych nie można sotować). Po kliknięciu na wybrany profil, strona przechodzi w edycję zamiast podgląd. Tu jest poważny błąd ponieważ możemy przez przypadek zmienić dane. Należałoby to zmienić, aby nie było możliwości edycji. Jedynie podgląd i ewentualnie opcja drukuj i udostępnij.
 
