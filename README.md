@@ -11,8 +11,7 @@ Moim celem jest nie tylko stworzenie portfolio, ale także zrozumienie czym jest
 
 ## Subtask 4
 
-1.	Apka
-Platforma scautingowa „ Futbol Kolektyw” to aplikacja, która polega na przeglądaniu w bazie danych piłkarzy, meczów i raportów oraz rejestrowaniu nowych zawodników, meczów i raportów. Służyć to będzie do wyszukiwania odpowiednich dla scoutów piłkarzy.
+1. Platforma scautingowa „ Futbol Kolektyw” to aplikacja, która polega na przeglądaniu w bazie danych piłkarzy, meczów i raportów oraz rejestrowaniu nowych zawodników, meczów i raportów. Służyć to będzie do wyszukiwania odpowiednich dla scoutów piłkarzy.
 2.	Funkcjonalność całej aplikacji oraz moje uwagi:
 a) Logowanie i Wylogowanie czyli wejście i wyjście na konto użytkownika do/ z platformy – brak możliwości zalogowania się przez np. Facebook lub konto Google czy też przez inne aplikacje, a byłoby to znacznym ułatwieniem dla użytkownika.
 b) Strona Główna, gdzie jednym kliknięciem przechodzimy do strony startowej- menu użytkownika.
