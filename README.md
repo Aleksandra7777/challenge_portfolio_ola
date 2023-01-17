@@ -13,12 +13,19 @@ Moim celem jest nie tylko stworzenie portfolio, ale także zrozumienie czym jest
 
 1. Platforma scautingowa „ Futbol Kolektyw” to aplikacja, która polega na przeglądaniu w bazie danych piłkarzy, meczów i raportów oraz rejestrowaniu nowych zawodników, meczów i raportów. Służyć to będzie do wyszukiwania odpowiednich dla scoutów piłkarzy.
 2.	Funkcjonalność całej aplikacji oraz moje uwagi:
+
 a) Logowanie i Wylogowanie czyli wejście i wyjście na konto użytkownika do/ z platformy – brak możliwości zalogowania się przez np. Facebook lub konto Google czy też przez inne aplikacje, a byłoby to znacznym ułatwieniem dla użytkownika.
+
 b) Strona Główna, gdzie jednym kliknięciem przechodzimy do strony startowej- menu użytkownika.
+
 c) Tłumacz czyli zmiana języka: angielski/ polski – tutaj proponowałabym dodać więcej języków.
+
 d) Linki pomocnicze dodaj gracza – czyli tworzenie profilu nowego gracza oraz edycja go; można zaobserwować tutaj takie dane jak: E-mail, Imię, Nazwisko, Telefon, Waga, Wzrost (cm), Data urodzenia, Dominująca noga, Klub, Poziom rozgrywek, Główna pozycja, Pozycja alternatywa, Województwo, Osiągnięcia, Łączy nas piłka, 90 minut, Profil facebook oraz przycisk Dodaj link z YouTube, następnie przyciski Submit i Clear.
+
 Można zauważyć, że nie wszystkie pola są obowiązkowe oraz jeśli nie wpiszemy nic w polu obowiązkowym to wyświetla się komunikat o wypełnieniu tego pola co jest dużym plusem.
+
 Co do tej sekcji to proponowałabym jeszcze dodatkowo takie zmiany: 
+
 Waga - w nawiasie zamieścić jednostkę miary czyli kg, Województwo - zrobiłabym nazwy to z małych liter, Łączy nas piłka i 90 min – nie wiadomo jakie tu mają być informacje i co to jest - powinna być podpowiedź, Dodaj link z YouTube zmieniłabym na dodaj link po prostu, bo są inne różne platformy i aplikacje z filmami, nie każdy korzysta akurat z YT, przyciski Submit i Clear proponowałabym w języku takim jak wybraliśmy czyli jeżeli polski to powinno być przetłumaczone na zatwierdź i wyczyść, a nie, że pozostaje w języku angielskim cały czas.
 Po dodaniu tudzież zatwierdzeniu gracza, strona nie przechodzi do strony głównej lub na podglądowy profil piłkarza tyko nadal jest poziom edycji co jest mało praktyczne (wyświetla się komunikat o dodaniu gracza czyli zapisaniu go i drugi – przekierowanie na stronę edycji). Brak podglądu profilu moim zdaniem należy poprawić. Powinno się zapisać i od razu wyświetlić zapisany profil (podgląd) i znajdować się przycisk - edytuj. Jeżeli coś jest zaznaczone gwiazdką (*) to powinna być na końcu strony informacja co to znaczy czy też, że są to pola obowiązkowe. Często po wpisaniu danych łącznie z polami obowiązkowymi, profil nie zapisuje się, wyświetla się komunikat, że nie dodano, natomiast brak tutaj ważnego podkreślenia dlaczego nie dodano i gdzie jest jeszcze błąd, co należy jeszcze wypełnić. 
 Oprócz ww. do profilu użytkownika dodałabym możliwość przesłania zdjęcia profilowego.
