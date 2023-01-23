@@ -60,3 +60,5 @@ W tej sekcji Gracze, wyświetlona jest lista profili z wybranymi danymi jak Imi�
 
 # Task 2
 ## Subtask 3
+
+Aby dobrze rozplanować przetestowanie danego modułu aplikacji potrzebne nam będą przypadki testowe. Dobre pokrycie przypadkami testowymi oprogramowania daje nam pewność podczas testów, że nie pominęliśmy żadnej ważnej funkcjonalności. Pozytywne przypadki testowe sprawdzają, czy użytkownicy mogą wykonywać odpowiednie działania, korzystając z prawidłowych danych. Czy aplikacja zachowuje się zgodnie z oczekiwaniami, czy nie. Negatywne przypadki testowe są wykonywane w celu próby „zepsucia” oprogramowania poprzez wykonanie nieprawidłowych (lub niedopuszczalnych) działań lub użycie nieprawidłowych danych.
