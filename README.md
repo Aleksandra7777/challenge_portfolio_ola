@@ -57,3 +57,6 @@ W tej sekcji Gracze, wyświetlona jest lista profili z wybranymi danymi jak Imi�
 
 4. Moim zdaniem funkcjonalności funkcji są dość intuicyjne. Proste formularze poprowadzą użytkownika krok po kroku do stworzenia profilu piłkarza, zaczynając od opcji w menu głównym – dodaj gracza. Łatwość zmiany języka jednym kliknięciem. Szybkość przejścia na stronę główną. Łatwość wyszukiwania odpowiednich danych. Przyciski są widoczne i czytelne. Myślę, że w większości przypadków zrozumie bezproblemowo działanie aplikacji.  
 5. Oprócz wymienionych wyżej błędów i uwag zaznaczam, że przy słabszym zasięgu Internetu obserwujemy problemy z zalogowaniem do platformy. Jest błąd w literówce w sekcji Aktywność – jest s zamiast ś, na stronie głównej. Link z YouTube powinien zapisać tylko link, na który można najechać i się wyświetli, natomiast w tej aplikacji jest to utrudnione, ponieważ link trzeba skopiować do wyszukiwarki by go zobaczyć. Każdy użytkownik aplikacji może edytować każdego gracza. Brak również selekcji zawodników, bo skoro aplikacja ma również pomóc odnaleźć „tych” graczy to przydałoby się miejsce na dodawanie wybranych do jakiejś zakładki i przy tym również możliwość wyszukiwania gracza po ilości gwiazdek od najsłabszego do najlepszego.
+
+# Task 2
+## Subtask 3
