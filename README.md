@@ -59,6 +59,8 @@ W tej sekcji Gracze, wyświetlona jest lista profili z wybranymi danymi jak Imi�
 5. Oprócz wymienionych wyżej błędów i uwag zaznaczam, że przy słabszym zasięgu Internetu obserwujemy problemy z zalogowaniem do platformy. Jest błąd w literówce w sekcji Aktywność – jest s zamiast ś, na stronie głównej. Link z YouTube powinien zapisać tylko link, na który można najechać i się wyświetli, natomiast w tej aplikacji jest to utrudnione, ponieważ link trzeba skopiować do wyszukiwarki by go zobaczyć. Każdy użytkownik aplikacji może edytować każdego gracza. Brak również selekcji zawodników, bo skoro aplikacja ma również pomóc odnaleźć „tych” graczy to przydałoby się miejsce na dodawanie wybranych do jakiejś zakładki i przy tym również możliwość wyszukiwania gracza po ilości gwiazdek od najsłabszego do najlepszego.
 
 # Task 2
+[Subtask 1](https://docs.google.com/spreadsheets/d/1MbKOnczMdAiLEHo4Ea55W7Hl5swJq_wZGsMpSH7lGWE/edit#gid=0)
+[Subtask 2](https://docs.google.com/spreadsheets/d/1FtRzPQIKrIPBBmxD6vIuyaR6vvuYDmaVvW0a3WE8iAM/edit#gid=0)
 ## Subtask 3
 
 Aby dobrze rozplanować przetestowanie danego modułu aplikacji potrzebne nam będą przypadki testowe. Dobre pokrycie przypadkami testowymi oprogramowania daje nam pewność podczas testów, że nie pominęliśmy żadnej ważnej funkcjonalności. Pozytywne przypadki testowe sprawdzają, czy użytkownicy mogą wykonywać odpowiednie działania, korzystając z prawidłowych danych. Czy aplikacja zachowuje się zgodnie z oczekiwaniami, czy nie. Negatywne przypadki testowe są wykonywane w celu próby „zepsucia” oprogramowania poprzez wykonanie nieprawidłowych (lub niedopuszczalnych) działań lub użycie nieprawidłowych danych.
