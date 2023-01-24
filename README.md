@@ -1,6 +1,6 @@
 # Task 1
-Link do Google doc
-https://drive.google.com/drive/folders/1ctHo4IjgmJ650I15QeVoQPpxscDuzhUF?usp=sharing
+[Link do Google doc](https://drive.google.com/drive/folders/1ctHo4IjgmJ650I15QeVoQPpxscDuzhUF?usp=sharing)
+
 ## Subtask 1
 10 pkt
 ## Subtask 3
