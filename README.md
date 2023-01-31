@@ -76,6 +76,7 @@ https://www.youtube.com/watch?v=OO3FANjwKHY&t=4s&ab_channel=Barteky94
 
 ## Subtask 2
 [Subtask 1 Test cases](https://docs.google.com/spreadsheets/d/11N36wm2ZMIzzEsZmvjW4cQLfH4Ov8INpVnGiQ_50DB8/edit?usp=sharing)
+
 [Subtask 2 Test cases](https://docs.google.com/spreadsheets/d/11N36wm2ZMIzzEsZmvjW4cQLfH4Ov8INpVnGiQ_50DB8/edit?usp=sharing)
 
 ## Subtask 3
