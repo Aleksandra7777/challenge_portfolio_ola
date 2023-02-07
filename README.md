@@ -81,3 +81,23 @@ https://www.youtube.com/watch?v=OO3FANjwKHY&t=4s&ab_channel=Barteky94
 
 ## Subtask 3
 [Subtask 3](https://docs.google.com/document/d/1OsThvJ2tRg2XdLQSV5nny-fxpiW8xFJ9YyBh74a-B7w/edit?usp=share_link)
+
+# Task 4
+[Subtask 2](https://docs.google.com/document/d/1Qt8U_YziGcppeDL7_f3xRybX2QMapOWAN4lzY7Kw_50/edit?usp=sharing)
+
+## Subtask 3
+
+1.	Aplikacja OLX służy do wystawiania wirtualnych ogłoszeń, np. o noclegach; towarach na sprzedaż (nowych i używanych), które można też kupić bezpośrednio, jeśli wystawca zdecyduje się ustawić taką opcję; oferty pracy, również nieruchomości na sprzedaż, a także wszelkie usługi, np. remonty, imprezy, przeprowadzki.
+Celem jest ułatwienie użytkownikom znalezienie w jednym miejscu wszystkiego co potrzebuje.
+
+2.	Użytkownikiem końcowym może być wystawiający ogłoszenia jak i przeglądający/ kupujący. 
+Użytkownik końcowy to osoba, która ostatecznie korzysta lub zamierza korzystać z zakupionego produktu lub usługi. 
+
+3.	Aplikacja jest user friendly, ponieważ jest łatwa w obsłudze, bardzo intuicyjna, jest przejrzysta grafika, uproszczony panel użytkownika, przyciski są widoczne, aplikacja posiada możliwość bezpłatnego korzystania z funkcji.
+
+4.	W tej aplikacji dobrze by było gdyby była możliwość robienia screenshot zdjęć towarów jeśli chodzi o usprawnienie całej aplikacji.
+
+
+5.	Aplikacja webowa w porównaniu z natywną działa na platformie z dowolnym systemem operacyjnym i nie ma konieczności instalowania na dysku twardym.
+Aplikacja natywna w porównaniu z webową ma dostęp do sprzętu urządzenia (geolokalizacja, kamera, kalendarz itp.) i szeroka funkcjonalność dzięki temu. Jest prostsza w obsłudze i może działać bez dostępu Internetu.
+
