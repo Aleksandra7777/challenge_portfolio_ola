@@ -109,6 +109,8 @@ Aplikacja natywna w porównaniu z webową ma dostęp do sprzętu urządzenia (ge
 
 SELECT * FROM actors ORDER BY `actors`.`surname` ASC
 
+![](https://github.com/Aleksandra7777/challenge_portfolio_ola/blob/main/1.jpg)
+
 **2.	Wyświetl film, który powstał w 2019 roku.**
 
 SELECT * FROM `movies` WHERE `year_of_production` ='2019';
