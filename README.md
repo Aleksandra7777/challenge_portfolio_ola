@@ -115,34 +115,52 @@ SELECT * FROM actors ORDER BY `actors`.`surname` ASC
 
 SELECT * FROM `movies` WHERE `year_of_production` ='2019';
 
+![](https://github.com/Aleksandra7777/challenge_portfolio_ola/blob/main/2.jpg)
+
 **3.	Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.**
 
 SELECT * FROM `movies` WHERE `year_of_production` between '1990' and '1999';
+
+![](https://github.com/Aleksandra7777/challenge_portfolio_ola/blob/main/3.jpg)
 
 **4.	Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$.**
 
 SELECT `title`, `price` FROM `movies` WHERE price < 7;
 
+![](https://github.com/Aleksandra7777/challenge_portfolio_ola/blob/main/4.jpg)
+
 **5.	Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.**
 
 SELECT * FROM actors WHERE actor_id >=4 and actor_id<=7;
+
+![](https://github.com/Aleksandra7777/challenge_portfolio_ola/blob/main/5.jpg)
 
 **6.	Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.**
 
 SELECT * FROM `customers` WHERE customer_id%2=0;
 
+![](https://github.com/Aleksandra7777/challenge_portfolio_ola/blob/main/6.jpg)
+
 **7.	Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.**
 
 SELECT * FROM `customers` WHERE customer_id in (1,3,5);
+
+![](https://github.com/Aleksandra7777/challenge_portfolio_ola/blob/main/7.jpg)
 
 **8.	Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.**
 
 SELECT * FROM `actors` WHERE name like 'An%';
 
+![](https://github.com/Aleksandra7777/challenge_portfolio_ola/blob/main/8.jpg)
+
 **9.	Wyświetl dane klienta, który nie ma podanego adresu email.**
 
 SELECT * FROM `customers` WHERE email is null;
 
+![](https://github.com/Aleksandra7777/challenge_portfolio_ola/blob/main/9.jpg)
+
 **10.	Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.**
 
 SELECT * FROM `movies` WHERE price >9 and movie_id between 2 and 8;
+
+![](https://github.com/Aleksandra7777/challenge_portfolio_ola/blob/main/10.jpg)
