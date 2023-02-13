@@ -117,30 +117,30 @@ SELECT * FROM `movies` WHERE `year_of_production` ='2019';
 
 SELECT * FROM `movies` WHERE `year_of_production` between '1990' and '1999';
 
-4.	Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
+**4.	Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$.**
 
 SELECT `title`, `price` FROM `movies` WHERE price < 7;
 
-5.	Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
+**5.	Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.**
 
 SELECT * FROM actors WHERE actor_id >=4 and actor_id<=7;
 
-6.	Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
+**6.	Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.**
 
 SELECT * FROM `customers` WHERE customer_id%2=0;
 
-7.	Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
+**7.	Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.**
 
 SELECT * FROM `customers` WHERE customer_id in (1,3,5);
 
-8.	Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+**8.	Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.**
 
 SELECT * FROM `actors` WHERE name like 'An%';
 
-9.	Wyświetl dane klienta, który nie ma podanego adresu email.
+**9.	Wyświetl dane klienta, który nie ma podanego adresu email.**
 
 SELECT * FROM `customers` WHERE email is null;
 
-10.	Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+**10.	Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.**
 
 SELECT * FROM `movies` WHERE price >9 and movie_id between 2 and 8;
