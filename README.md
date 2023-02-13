@@ -103,6 +103,10 @@ Aplikacja natywna w porównaniu z webową ma dostęp do sprzętu urządzenia (ge
 
 # Task 5
 
+## Subtask 1
+
+Operatory/ zapytania, które oswoiłam: Select;, From; Where; And, Or, Not, Null; Updat;, Delete; In; Between; 
+
 ## Subtask 3
 
 **1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.**
