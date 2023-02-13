@@ -105,7 +105,7 @@ Aplikacja natywna w porównaniu z webową ma dostęp do sprzętu urządzenia (ge
 
 ## Subtask 1
 
-Operatory/ zapytania, które oswoiłam: Select;, From; Where; And, Or, Not, Null; Updat;, Delete; In; Between; 
+Operatory/ zapytania, które oswoiłam: Select; From; Where; And, Or, Not, Null; Updat;, Delete; In; Between; 
 
 ## Subtask 3
 
