@@ -174,12 +174,18 @@ SELECT * FROM `movies` WHERE price >9 and movie_id between 2 and 8;
 Wynik testu z wiedzy z Sylabusa ISTQB (quiz Écru)
 8/15
 ## Subtask 3
-[Portfolio](https://github.com/Aleksandra7777/PORTFOLIOAbout me)
-Courses
+[Portfolio](https://github.com/Aleksandra7777/PORTFOLIOAboutme)
+
+**Courses
+
 Challenge porfolio - QA Manual Testing ('Zostań testerem manualnym') - DARE IT
-Tools
+
+**Tools
+
 •	Jira, Slack, Markdown, GitHub, Chrome DevTools, MySQL, Xampp
-RECOMMENDED BLOGS ABOUT TESTING
+
+**RECOMMENDED BLOGS ABOUT TESTING
+
 https://testerzy.pl/
 https://www.wyszkolewas.com.pl/
 https://www.guru99.com/
@@ -187,16 +193,21 @@ https://tester.milenabednarczyk.pl/
 https://testerka.pl/
 https://www.w3schools.com/
 
-My projects
+**My projects
+
 TEST CASES
 [Test cases based on the User Story](https://docs.google.com/spreadsheets/d/1MbKOnczMdAiLEHo4Ea55W7Hl5swJq_wZGsMpSH7lGWE/edit#gid=0)
 [Test cases based on explorary testing](https://docs.google.com/spreadsheets/d/1FtRzPQIKrIPBBmxD6vIuyaR6vvuYDmaVvW0a3WE8iAM/edit#gid=0)
+
 
 BUG REPORT
 [Bug report - web application testing](https://docs.google.com/document/d/19M27qdCZ3ehIkv-k6LxBVmPHLrJbYRMdYLS0iMMjGV8/edit?usp=sharing)
 [Bug report - mobile app testing](https://docs.google.com/document/d/1Qt8U_YziGcppeDL7_f3xRybX2QMapOWAN4lzY7Kw_50/edit?usp=sharing)
 
+
 TEST REPORT
 [Test report - web application testing](https://docs.google.com/document/d/1OsThvJ2tRg2XdLQSV5nny-fxpiW8xFJ9YyBh74a-B7w/edit?usp=sharing)
 SQL
+
+
 [SQL tasks] (https://github.com/Aleksandra7777/challenge_portfolio_ola#task-5)
