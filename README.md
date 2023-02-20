@@ -174,17 +174,19 @@ SELECT * FROM `movies` WHERE price >9 and movie_id between 2 and 8;
 Wynik testu z wiedzy z Sylabusa ISTQB (quiz Écru)
 8/15
 ## Subtask 3
-[Portfolio](https://github.com/Aleksandra7777/PORTFOLIOAboutme)
+[Portfolio](https://github.com/Aleksandra7777/PORTFOLIO)
 
-**Courses
+**Aboutme**
+
+**Courses**
 
 Challenge porfolio - QA Manual Testing ('Zostań testerem manualnym') - DARE IT
 
-**Tools
+**Tools**
 
 •	Jira, Slack, Markdown, GitHub, Chrome DevTools, MySQL, Xampp
 
-**RECOMMENDED BLOGS ABOUT TESTING
+**RECOMMENDED BLOGS ABOUT TESTING**
 
 https://testerzy.pl/
 https://www.wyszkolewas.com.pl/
@@ -193,7 +195,7 @@ https://tester.milenabednarczyk.pl/
 https://testerka.pl/
 https://www.w3schools.com/
 
-**My projects
+**My projects**
 
 TEST CASES
 [Test cases based on the User Story](https://docs.google.com/spreadsheets/d/1MbKOnczMdAiLEHo4Ea55W7Hl5swJq_wZGsMpSH7lGWE/edit#gid=0)
